@@ -19,6 +19,10 @@ body{
     margin-bottom:3rem;
 }
 
+.alert li{
+    list-style:none;
+}
+
 .my-navbar-brand{
     font-size:18px;
 }
